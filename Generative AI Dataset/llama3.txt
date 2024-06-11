@@ -1,0 +1,7 @@
+Llama (Large Language Model Meta AI) is a family of autoregressive large language models released by Meta AI starting in February 2023.[2][3] The latest version is Llama 3 released in April 2024.[4]
+
+Model weights for the first version of Llama were released to the research community under a non-commercial license.[5][3] Subsequent versions of Llama were made accessible outside academia and released under licenses that permitted some commercial use.[6][7] Llama models are trained at different parameter sizes, typically ranging between 7B and 70B.[4] Originally, Llama was only available as a foundation model.[8] Starting with Llama 2, Meta AI started releasing instruction fine-tuned versions alongside foundation models.[7]
+
+Llama models have been compared favorably against other large language models. Meta AI reported the original 13B parameter model's performance on most NLP benchmarks exceeded that of the much larger GPT-3 (with 175B parameters) and that the largest model was competitive with state of the art models such as PaLM and Chinchilla.[2]. Meta AI's testing shows that Llama 3 70B beats Gemini, and Claude in most benchmarks.[9][10] Wired describes the 8B parameter version of Llama 3 as being "surprisingly capable" given it's size.[11]
+
+Alongside the release of Llama 3, Meta added virtual assistant features to Facebook and WhatsApp in select regions, and a standalone website. Both services use a Llama 3 model.[12] Reception was mixed, with some users confused after Meta AI told a parental group that it had a child.[13]
