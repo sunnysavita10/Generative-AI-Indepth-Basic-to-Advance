@@ -1,0 +1,4 @@
+langchain
+openai
+huggingface_hub
+langchain_google_genai

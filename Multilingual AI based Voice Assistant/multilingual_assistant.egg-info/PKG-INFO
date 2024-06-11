@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: multilingual-assistant
+Version: 0.0.1
+Author: sunny
+Author-email: sunny.savita@ineuron.ai
+Requires-Dist: SpeechRecognition
+Requires-Dist: pipwin
+Requires-Dist: pyaudio
+Requires-Dist: gTTS
+Requires-Dist: google-generativeai
+Requires-Dist: python-dotenv
+Requires-Dist: streamlit
